@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "search-in-script"
+name = "search_in_script"
 version = "0.1.0"
